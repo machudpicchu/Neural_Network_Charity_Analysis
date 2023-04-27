@@ -29,3 +29,4 @@ Results: Using bulleted lists and images to support your answers, address the fo
 Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
 
 Links to images are working, and code is formatted and displayed correctly (2 pt).
+![Model Results](https://github.com/machudpicchu/Neural_Network_Charity_Analysis/blob/main/Results_Optimized.png)
